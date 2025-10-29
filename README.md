@@ -36,11 +36,20 @@ It includes:
 
 ## 📂 Project Structure
 ├── app.py # Flask backend
+
 ├── static/
+
 │ ├── css/
+
 │ │ └── style.css # Frontend styling
+
 │ ├── js/
+
 │ │ └── script.js # Frontend logic
+
 │ └── uploads/ # Uploaded media stored here
+
 └── templates/
+
 └── index.html # Main web interface
+
