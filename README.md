@@ -36,11 +36,6 @@ ai_gallery_search/
 
 ---
 
-## ⚙️ Installation and Setup
-
-### 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/ai_gallery_search.git  
-cd ai_gallery_search
 
 ## ⚙️ Installation & Setup
 
