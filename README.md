@@ -7,3 +7,13 @@ It allows users to search their gallery of images and videos using natural text 
 and it instantly returns all matching media, even if filenames don’t match.
 
 This project connects text, image, and video understanding into a single intelligent system.
+🌐 Demo (Local Setup)
+
+You can run this project locally using Flask.
+It includes:
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Python (Flask + OpenAI CLIP)
+
+Model: openai/clip-vit-base-patch32
