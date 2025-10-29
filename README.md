@@ -22,7 +22,7 @@ and it instantly returns all matching media, even if filenames don’t match.
 
 This project connects **text, image, and video understanding** into a single intelligent system.
 ## 📂 Project Structure
-ai_gallery_search/
+gallery_search/
 │
 ├── app.py                    # Flask backend  
 ├── static/  
