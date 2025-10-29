@@ -1,4 +1,4 @@
-// Robust script.js for ai_gallery_search
+// Robust script.js for gallery_search
 // - Uploads files (key name 'file') to /upload
 // - Sends JSON search to /search
 // - Renders results (images/videos) from /uploads/<filename>
@@ -205,3 +205,4 @@
   };
 
 })(); 
+
