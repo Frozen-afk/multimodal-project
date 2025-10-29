@@ -42,26 +42,24 @@ ai_gallery_search/
 git clone https://github.com/<your-username>/ai_gallery_search.git  
 cd ai_gallery_search
 
-### 2️⃣ Create and activate a virtual environment
-python -m venv venv  
-source venv/bin/activate        # On Windows: venv\Scripts\activate
+## ⚙️ Installation & Setup
 
-### 3️⃣ Install dependencies
+# Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate    # For Mac/Linux
+venv\Scripts\activate       # For Windows
+
+# Install dependencies
 pip install -r requirements.txt
 
-If you don’t have `requirements.txt`, create one with:
-torch  
-transformers  
-flask  
-pillow  
-opencv-python  
-numpy
-
-### 4️⃣ Run the app
+# Run the Flask app
 python app.py
 
-Then open your browser and visit:
-http://127.0.0.1:5000
+# Once the server starts, open this in your browser:
+# http://127.0.0.1:5000/
+
+# You can now upload images or videos and search them using natural text prompts.
+
 ## 💡 How It Works
 
 1. **Upload Media:**  
