@@ -41,15 +41,15 @@ It includes:
 
 │ ├── css/
 
-│ │ └── style.css # Frontend styling
+│  └── style.css # Frontend styling
 
 │ ├── js/
 
-│ │ └── script.js # Frontend logic
+│  └── script.js # Frontend logic
 
-│ └── uploads/ # Uploaded media stored here
+│ ├── uploads/ # Uploaded media stored here
 
-└── templates/
+├── templates/
 
-└── index.html # Main web interface
+  └── index.html # Main web interface
 
