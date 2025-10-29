@@ -52,4 +52,8 @@ It includes:
 ├── templates/
 
   └── index.html # Main web interface
+  
+## 2️⃣ Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate        # On Windows: venv\Scripts\activate
 
