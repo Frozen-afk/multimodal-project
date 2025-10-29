@@ -39,21 +39,22 @@ ai_gallery_search/
 
 ## ⚙️ Installation & Setup
 
-# Step 1: Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate    # For Mac/Linux
-venv\Scripts\activate       # For Windows
+1. Create and activate a virtual environment:
+   python -m venv venv
+   source venv/bin/activate    # For Mac/Linux
+   venv\Scripts\activate       # For Windows
 
-# Step 2: Install dependencies
-pip install -r requirements.txt
+2. Install dependencies:
+   pip install -r requirements.txt
 
-# Step 3: Run the Flask app
-python app.py
+3. Run the Flask app:
+   python app.py
 
-# Step 4: Open the app in your browser
-# URL: http://127.0.0.1:5000/
+4. Open the app in your browser:
+   http://127.0.0.1:5000/
 
-# You can now upload images or videos and search them using natural text prompts.
+You can now upload images or videos and search them using natural text prompts.
+
 
 
 ## 💡 How It Works
